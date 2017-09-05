@@ -1,6 +1,6 @@
 # Profitoro
 
-[![CircleCI](https://circleci.com/gh/chudaol/profitoro.svg?style=svg)](https://circleci.com/gh/chudaol/profitoro)
+[![CircleCI](https://circleci.com/gh/jnikles/profitoro.svg?style=svg)](https://circleci.com/gh/jnikles/profitoro)
 
 > Take breaks during work. Exercise during breaks.
 
