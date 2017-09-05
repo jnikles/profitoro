@@ -2,10 +2,10 @@
 import firebase from 'firebase'
 
 let config = {
-  apiKey: 'AIzaSyDGJLmuKGoM7uOKFEsMTP_L9gwJCmOQmfE',
-  databaseURL: 'https://profitoro-ad0f0.firebaseio.com',
-  authDomain: 'profitoro-ad0f0.firebaseapp.com',
-  storageBucket: 'gs://profitoro-ad0f0.appspot.com'
+  apiKey: 'AIzaSyB-SNsZ7luOKKxnp6WrN_L9PvJNX5qYQPU',
+  authDomain: 'profitoro-d173e.firebaseapp.com',
+  databaseURL: 'https://profitoro-d173e.firebaseio.com',
+  storageBucket: 'profitoro-d173e.appspot.com'
 }
 
 let firebaseApp
